@@ -1,2 +1,3 @@
 let value = 12;
-console.log(value);
+
+console.log("this is the value:",value);
