@@ -1,3 +1,3 @@
 let value = 12;
-
-console.log("this is the value:",value);
+let print= value=>return value;
+console.log("this is the value:",print);
